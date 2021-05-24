@@ -1,6 +1,7 @@
 # yolov5汉化版
 ## 简介
 本仓库Fork自Ultralytics公司出品的yolov5，原仓库地址为：[ultralytics/yolov5](https://github.com/ultralytics/yolov5) ，所有版权均属于原仓库作者所有，请参见原仓库[License](https://github.com/ultralytics/yolov5/blob/master/LICENSE)。本人汉化自用，也方便各位国人使用。
+
 [Origin README](README_EN.md)
 
 #### 1. 模型效果
@@ -12,6 +13,7 @@ yolov5按大小分为四个模型yolov5s、yolov5m、yolov5l、yolov5x，这四�
 
 #### 2. yolov5版本：
 
+- 2021年四月12日：[v5.0 release](https://github.com/ultralytics/yolov5/releases/tag/v5.0)
 - 2021年1月5日：[v4.0 release](https://github.com/ultralytics/yolov5/releases/tag/v4.0)
 - 2020年10月29日：[v3.1 release](https://github.com/ultralytics/yolov5/releases/tag/v3.1)
 - 2020年8月13日: [v3.0 release](https://github.com/wudashuo/yolov5/releases/tag/v3.0)
@@ -219,7 +221,7 @@ $ python test.py --weights ./weights/yolov5x.pt --data ./data/coco.yaml --img 67
 
 
 ## 联系方式
-如有疑问可在[本repo的Issues](https://github.com/wudashuo/yolov5/issues)里提，我看到会及时回复。
+如有疑问可在[本repo的Issues](https://github.com/CruiseTian/yolov5/issues)里提，我看到会及时回复。
 
 如有代码bug请去[yolov5官方Issues](https://github.com/ultralytics/yolov5/issues)下提。
 
